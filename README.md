@@ -1,3 +1,7 @@
+Currently working on: **[Second Chance at World's End](https://templarterentius.itch.io/second-chance-at-worlds-end)**
+
+---
+
 - 👋 Hi, I’m @Terence2018
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning R and data analysis and visualization techniques
