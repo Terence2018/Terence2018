@@ -1,7 +1,7 @@
 Currently working on: 
 - **[Second Chance at World's End](https://templarterentius.itch.io/second-chance-at-worlds-end)**
-- **Slice of Life** *(Link TBA)*
 - **[SwordWing](https://templarterentius.itch.io/swordwing)**
+- **Slice of Life** *(Link TBA)*
 ---
 
 - 👋 Hi, I’m @Terence2018
